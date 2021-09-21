@@ -1,3 +1,9 @@
+#include <string>
+#include <vector>
+
+int main(){
+    
+}
 /* String functions section */
 
 // Splits a single string on separator into a vector of strings
